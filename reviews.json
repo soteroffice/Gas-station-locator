@@ -1,0 +1,14 @@
+{
+    "reviews": [
+        {
+            "stationId": 1,
+            "text": "Great service and good price!",
+            "rating": 5
+        },
+        {
+            "stationId": 2,
+            "text": "Decent gas but a bit expensive.",
+            "rating": 3
+        }
+    ]
+}
