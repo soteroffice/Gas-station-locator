@@ -1,0 +1,20 @@
+{
+    "stations": [
+        {
+            "id": 1,
+            "name": "Gas Station A",
+            "latitude": 40.297,
+            "longitude": -111.695,
+            "price": 3.45,
+            "address": "123 Main St, Orem, UT"
+        },
+        {
+            "id": 2,
+            "name": "Gas Station B",
+            "latitude": 40.300,
+            "longitude": -111.700,
+            "price": 3.50,
+            "address": "456 Elm St, Orem, UT"
+        }
+    ]
+}
